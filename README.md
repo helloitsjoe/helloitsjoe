@@ -4,4 +4,4 @@
 reading, and [here](https://helloitsjoe.github.io/blog) are some things I'm
 writing.
 
-I co-host [Runtime Rundown](https://runtimerundown.com) with [https://github.com/cooperbuilt](@cooperbuilt) and [build things on YouTube](https://www.youtube.com/channel/UCmoQaM-x1zBKCUUPS5e6fCA).
+I co-host [Runtime Rundown](https://runtimerundown.com) with [@cooperbuilt](https://github.com/cooperbuilt) and [build things on YouTube](https://www.youtube.com/channel/UCmoQaM-x1zBKCUUPS5e6fCA).
