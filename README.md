@@ -1,6 +1,6 @@
 ## 👋 Hello! It's Joe.
 
-Here are some other software-adjacent projects I work on:
+Here are some projects I work on:
 
 - [Runtime Rundown podcast](https://runtimerundown.com), together with [@cooperbuilt](https://github.com/cooperbuilt)
 - [My personal blog](https://helloitsjoe.github.io/blog)
